@@ -1,4 +1,4 @@
-package com.example.wiprotestapp
+package com.example.wiprotestapp.presentation.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
